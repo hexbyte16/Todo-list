@@ -12,6 +12,11 @@
 - [] Make a figma Design
 - [] Routes setup
 - [] ....
+- [x] text
+- [] text
+- [] text
+- [] text
+- [] text
 
 > [!TIP]
 > Project Deadline *insha'allah*: 2026-04-02
