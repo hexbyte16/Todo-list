@@ -51,7 +51,6 @@ declare module '$env/static/private' {
 	export const npm_config_npm_globalconfig: string;
 	export const NODE: string;
 	export const npm_config_verify_deps_before_run: string;
-	export const GRADLE_HOME: string;
 	export const npm_config__jsr_registry: string;
 	export const TMUX_PLUGIN_MANAGER_PATH: string;
 	export const DESKTOP_SESSION: string;
@@ -215,7 +214,6 @@ declare module '$env/dynamic/private' {
 		npm_config_npm_globalconfig: string;
 		NODE: string;
 		npm_config_verify_deps_before_run: string;
-		GRADLE_HOME: string;
 		npm_config__jsr_registry: string;
 		TMUX_PLUGIN_MANAGER_PATH: string;
 		DESKTOP_SESSION: string;
